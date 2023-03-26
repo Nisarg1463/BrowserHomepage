@@ -1,0 +1,24 @@
+.App{
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+.searchPanel{
+  width: 100vw;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.favourites{
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
